@@ -923,7 +923,7 @@ width:88%;
 	background-color: none;
 	background-image: none;
 	background-repeat: repeat-x;
-	color: #0081c2;
+	color: #FF8830;
 	filter: none;
 	text-decoration: none;
 }
@@ -934,7 +934,7 @@ width:88%;
 	background-color: none;
 	background-image: none;
 	background-repeat: repeat-x;
-	color: #0081c2;
+	color: #FF8830;
 	filter: none;
 	outline: 0;
 	text-decoration: none;
@@ -1905,7 +1905,7 @@ ul#filters > li, #filters-blog a
 }
 .project-item-image-container .project-item-overlay .inner ul li a
 {
-	color: #0085BD;
+	color: #FF8830;
 	text-decoration: none;
 }
 .project-item
@@ -2098,7 +2098,7 @@ video
 }
 #toTop:hover
 {
-	background: #0085BD url(../../assets/img/totop.png) top left no-repeat;
+	background: #FFA600  url(../../assets/img/totop.png) top left no-repeat;
 	box-shadow: 6px 6px 4px rgba(50, 50, 50, 0.22);
 	-moz-box-shadow: 6px 6px 4px rgba(50, 50, 50, 0.22);
 	-webkit-box-shadow: 6px 6px 4px rgba(50, 50, 50, 0.22);
